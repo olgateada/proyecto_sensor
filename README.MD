@@ -51,3 +51,6 @@
 *  Ana Paganessi
 *  Martina Oliva
 *  Micaela Chavarria
+
+## Proyecto del sensor de ruido:
+* Permite saber si un ruido es más alto o más bajo del rango elegido
