@@ -48,6 +48,6 @@
 ---
 
 ## Integrantes
-* ** Ana Paganessi
-* ** Martina Oliva
-* ** Micaela Chavarria
+*  Ana Paganessi
+*  Martina Oliva
+*  Micaela Chavarria
