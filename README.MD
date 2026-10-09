@@ -44,3 +44,10 @@
 * **Como:** Usuario.
 * **Quiero:** Actualizar mis datos personales y correo de contacto.
 * **Para:** Garantizar que las notificaciones lleguen a mi cuenta activa.
+
+---
+
+## Integrantes
+* ** Ana Paganessi
+* ** Martina Oliva
+* ** Micaela Chavarria
