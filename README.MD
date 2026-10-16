@@ -3,6 +3,13 @@
 
 ---
 
+## Integrantes
+*  Ana Paganessi
+*  Martina Oliva
+*  Micaela Chavarria
+
+---
+
 ## Requerimientos Funcionales
 
 1. El sistema debe permitir a los usuarios registrarse e iniciar sesión.
@@ -52,9 +59,6 @@
 
 ---
 
-## Integrantes
-*  Ana Paganessi
-*  Martina Oliva
-*  Micaela Chavarria
+
 
 
