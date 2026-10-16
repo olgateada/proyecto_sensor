@@ -1,3 +1,8 @@
+## Proyecto del sensor de ruido:
+* Permite saber si un ruido es más alto o más bajo del rango elegido
+
+---
+
 ## Requerimientos Funcionales
 
 1. El sistema debe permitir a los usuarios registrarse e iniciar sesión.
@@ -52,5 +57,4 @@
 *  Martina Oliva
 *  Micaela Chavarria
 
-## Proyecto del sensor de ruido:
-* Permite saber si un ruido es más alto o más bajo del rango elegido
+
