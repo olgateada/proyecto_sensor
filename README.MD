@@ -12,11 +12,12 @@
 
 ## Requerimientos Funcionales
 
-1. El sistema debe permitir a los usuarios registrarse e iniciar sesión.
-2. El sistema debe enviar notificaciones cuando el nivel de ruido supere el límite establecido.
-3. El sistema debe mostrar un historial de las lecturas del detector de ruido.
-4. El sistema debe permitir al usuario ajustar la sensibilidad del sensor de ruido.
-5. El sistema debe generar reportes diarios en formato PDF.
+1. El sistema debe enviar notificaciones cuando el nivel de ruido supere el límite establecido.
+2. El sistema debe permitir al usuario ajustar la sensibilidad del sensor de ruido.
+3. El sistema debe reconocer fácilmente cuando el ruido supera el límite.
+4. El sistema debe contemplar avisos cuando se supera el límuite configurado
+5. El sistema debe prender luces cuando se supera el umbral.
+
 
 ---
 
