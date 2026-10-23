@@ -1,3 +1,5 @@
+## Hola profe como esta? Le queremos pedir por favor que se fije en los commits, estamos las tres trabajando en el proyecto pero habia veces que no nos deja entrar en nuestras cuentas aunque saquemos las credenciales, espero comprenda, muchas gracias que tenga buen dia.
+
 ## Proyecto del sensor de ruido:
 * Permite saber si un ruido es más alto o más bajo del rango elegido
 
