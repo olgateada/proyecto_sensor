@@ -60,6 +60,14 @@
 
 ---
 
+* **PRECIOS Y COMPONENTES:**
+* Arduino UNO R3 SMD + USB: $10.975
+* Sensor de sonido con potenciometro: $2.321
+* Protoboard: $4.988
+* Pack 20 cables Dupont Macho-Hembra/10cm: $2.064
+* Resistencia 22OΩ x 10 unidades: $1.916
+* Led 5mm x 10 unidades: $1.946
+
 
 
 
