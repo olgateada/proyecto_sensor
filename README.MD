@@ -1,4 +1,4 @@
-## Hola profe, como esta? Le queremos pedir por favor que se fije en los commits, estamos las tres trabajando en el proyecto pero habia veces que no nos deja entrar en nuestras cuentas aunque saquemos las credenciales o ingresemos con nuestras cuentas, espero comprenda, muchas gracias que tenga buen dia, la queremos. 
+## Hola profe, como esta? Le queremos pedir por favor que se fije en los commits, estamos las tres trabajando en el proyecto pero habia veces que no nos deja entrar en nuestras cuentas aunque saquemos las credenciales o ingresemos con nuestras cuentas, las otras dos cuentas que aparecen como contribuidores somos nosotras. Espero comprenda, muchas gracias que tenga buen dia, la queremos. 
 
 ## Proyecto del sensor de ruido:
 * Permite saber si un ruido es más alto o más bajo del rango elegido
